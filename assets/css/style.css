@@ -1,0 +1,100 @@
+body {
+	width: 960px;
+}
+
+#name {
+	background-color: #4aaaa5;
+	color: white;
+	padding: 10px;
+	float: left;
+	margin-left: 100px;
+
+}
+
+
+#links {
+	background-color: white;
+	padding: 20px;
+	float: right;
+	position: absolute;
+	left: 615px;
+    top: 40px;
+
+}
+
+a {
+    color: #777777;
+	text-decoration: none;
+    padding: 10px;
+}
+
+.link1 {
+	border-right: solid;
+    border-color: #cccccc;
+}
+
+#main-container {
+	float: left;
+	width: 960px;
+	background: url("../images/seigaiha.png");
+	border-top: solid;
+    border-color: #dddddd;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color:#4aaaa5;
+    border-bottom: solid;
+    border-color: #dddddd;
+}
+#bio {
+	background-color: white;
+	float: left;
+	margin:20px 400px 20px 100px;
+	padding: 30px;
+    border: solid;
+    border-color: #dddddd;
+}
+
+#bio-image {
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+}
+
+#bio-info {
+    color:#777777;
+	padding: 15px;
+}
+
+#contact-me {
+	padding: 10px;
+	background-color: white;
+	position: absolute;
+    margin-top: 20px;
+    left: 650px;
+    border: solid;
+    border-color: #dddddd;
+    
+}
+
+.img2 {
+	width: 50px;
+	height: 50px;
+}
+
+footer {
+    color: white;
+	text-align: center;
+	clear: both;
+	width: 960px;
+	background-color: #666666;
+	border-top: solid;
+	border-color: #4aaaa5;
+	height: 30px;
+	padding: 20px 0px 25px 0px;
+}
